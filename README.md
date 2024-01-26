@@ -1,7 +1,6 @@
 ### Bienvenue sur le GitHub d'Hackcess👋
 
-#### Club de cybersécurité de l'IUT de Roanne
-
+#### Club de cybersécurité 
 
 Le club de cybersécurité Hackcess est un groupe de passionnés de la technologie et de la sécurité informatique qui se réunissent régulièrement pour discuter de sujets liés à la cybersécurité, partager des connaissances et relever des défis en utilisant des outils et des techniques de hacking éthique. Il vise à sensibiliser les membres à la sécurité informatique et à les aider à développer leurs compétences en matière de cybersécurité. Les activités du club incluent des ateliers, des conférences, des compétitions de hacking étiques et des projets de recherche. Il est ouvert à tous ceux qui sont intéressés par la cybersécurité et encourage les étudiants, les professionnels et les débutants à rejoindre.
 
